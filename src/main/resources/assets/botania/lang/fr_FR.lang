@@ -117,21 +117,21 @@ botaniamisc.stopped=Stopped
 botaniamisc.lockedStopped=Locked, Stopped
 
 # NEI INTEGRATION
-botania.nei.brewery=Botanical Brewery
-botania.nei.elvenTrade=elfique Trade
+botania.nei.brewery=Alambique botanique
+botania.nei.elvenTrade=Commerce elfique
 botania.nei.floatingFlowers=Fleur flottante
-botania.nei.manaPool=Mana Infusion
-botania.nei.petalApothecary=Petal Apothecary
-botania.nei.runicAltar=Runic Altar
-botania.nei.pureDaisy=Pure Daisy
+botania.nei.manaPool=Infusion de mana
+botania.nei.petalApothecary=Apothicaire de pétale
+botania.nei.runicAltar=Autel runique
+botania.nei.pureDaisy=Pâquerette pure
 
 # BUILDCRAFT INTEGRATION
-botania.triggers.manaDetector=Mana Burst
-botania.triggers.manaEmpty=Mana Empty
-botania.triggers.manaSpace=Space for Mana
-botania.triggers.manaContains=Contains Mana
-botania.triggers.manaFull=Mana Full
-botania.triggers.runeAltarCanCraft=Altar Can Craft
+botania.triggers.manaDetector=Explosion de mana
+botania.triggers.manaEmpty=Vide de mana
+botania.triggers.manaSpace=Espace pour lemMana
+botania.triggers.manaContains=Contient du mana
+botania.triggers.manaFull=Plein de mana
+botania.triggers.runeAltarCanCraft=Autel peut traiter
 
 # COLORS
 botania.color0=Blanc
@@ -175,16 +175,16 @@ botania.sign10=Verseau
 botania.sign11=Poisson
 
 # WINGS
-botania.wings0=No Wings
-botania.wings1=Wings: Flügel
-botania.wings2=Wings: One-Winged Angel
-botania.wings3=Wings: Ice Fairy
-botania.wings4=Wings: Phoenix
-botania.wings5=Wings: Black Snow Princess
-botania.wings6=Wings: Lord of the Pit
-botania.wings7=Wings: Sylph
-botania.wings8=Wings: Mega Ultra Chicken
-botania.wings9=Wings: The One
+botania.wings0=Pas d'ailes
+botania.wings1=Ailes: Flügel
+botania.wings2=Ailes: One-Winged Angel
+botania.wings3=Ailes: Ice Fairy
+botania.wings4=Ailes: Phoenix
+botania.wings5=Ailes: Black Snow Princess
+botania.wings6=Ailes: Lord of the Pit
+botania.wings7=Ailes: Sylph
+botania.wings8=Ailes: Mega Ultra Chicken
+botania.wings9=Ailes: The One
 
 # ARMOR SETS
 botania.armorset.manasteel.name=Mana Affinity
@@ -245,41 +245,41 @@ botania.knowledge.minecraft=Minecraftian Knowledge
 botania.knowledge.alfheim=&aElven&7 Knowledge
 
 # CONFIGURATION
-blockBreakingParticles.enabled=Block Break Particles
-blockBreakingParticlesTool.enabled=Tool Block Break Particles
-boundBlock.wireframe.enabled=Bound Block Wireframe
-darkQuartz.enabled=Enable Smokey Quartz
-fallenKanade.enabled=Enable Fallen Kanade
-manaEnchanter.enabled=Enable Mana Enchanter
-manaFluxfield.enabled=Enable Mana Fluxfield
-relics.enabled=Enable Relics
-18stones.enabled=Enable 1.8 Stones
-ringOfOdin.fireResist=Enable Ring of Odin Fire Resist
-flower.forceCheck=Flower Force Checking
-enderPickpocket.enabled=Enable Ender Pickpocketing
-thermalily.obsidian=Thermalily Needs Obsidian
+blockBreakingParticles.enabled=Particules de bloc brisé
+blockBreakingParticlesTool.enabled=Particules de bloc brisé d'outil
+boundBlock.wireframe.enabled=Cadre de bloc attaché
+darkQuartz.enabled=Activer le quartz fumé
+fallenKanade.enabled=Activer Fallen Kanade
+manaEnchanter.enabled=Activer l'enchanteur à mana
+manaFluxfield.enabled=Activer le champ flux de mana
+relics.enabled=Activer les reliques
+18stones.enabled=Activer les pierres 1.8
+ringOfOdin.fireResist=Activer la résistance au feu de l'anneau d'Odin
+flower.forceCheck=Vérification de la force des fleurs
+enderPickpocket.enabled=Activer le vole à la tire du néant
+thermalily.obsidian=les thermalily ont besoin d'obsidienne
 passiveWither.time=Passive Wither Time
-flowerParticles.frequency=Flower Particle Frequency
-lexicon.enable.rotatingItems=Lexicon Rotating Items
-lexicon.enable.justifiedText=Lexicon Justified Text
-lexicon.render.3D=3D Lexicon Render
-powerSystem.subtle=Use Subtle Power System
-pylonModel.old=Use Old Pylon Model
-elfPortal.particles.enabled=Enable Portal Particles
-chargeAnimation.enabled=Charging Animation Enabled
-vanillaParticleConfig.enabled=Use Vanilla Particle Config
-manaSpreaders.silent=Silent Diffuseur de manas
-flowerTextures.alt=Alternate Flower Textures
-matrixMode.enabled=Enable Matrix Mode
-references.enabled=Enable Tooltip References
-shaders.enabled=Enable Shader Usage
-baubleRender.enabled=Enable Bauble Rendering
+flowerParticles.frequency=Fréquence des particules des fleurs
+lexicon.enable.rotatingItems=Rotation des éléments du lexique
+lexicon.enable.justifiedText=Justification du texte du lexique
+lexicon.render.3D=Rendu 3D du lexique
+powerSystem.subtle=Utiliser les installations électriques subtiles
+pylonModel.old=Utiliser l'ancien modèle de pylône
+elfPortal.particles.enabled=Activer les particules du portail
+chargeAnimation.enabled=Chargement des animations activé
+vanillaParticleConfig.enabled=Utiliser la config des particules de base
+manaSpreaders.silent=Diffuseur de manas silencieux
+flowerTextures.alt=Textures alternatives des fleurs
+matrixMode.enabled=Activer le mode matriciel
+references.enabled=Activer les références d'infobulle
+shaders.enabled=Activer l'utilisation de Shader
+baubleRender.enabled=Activer le rendu Bauble
 spreader.posShift=Spreader Pos Shift
-versionChecking.enabled=Enable Version Checking
-wandBeam.static=Enable Static Wand Beam
-worldgen.flower.density=Worldgen Flower Density
-worldgen.flower.quantity=Worldgen Flower Quantity
-worldgen.mushroom.quantity=Worldgen Mushroom Quantity
+versionChecking.enabled=Activer la vérification de version
+wandBeam.static=Activer Static Wand Beam
+worldgen.flower.density=Densité de génération de fleur
+worldgen.flower.quantity=Quantité de génération de fleur
+worldgen.mushroom.quantity=Quantité de génération de champignon
 
 # VERSION CHECKING
 botania.versioning.flavour0=NANI SORE!? BOTANIA IS OUTDATED!?
@@ -571,7 +571,7 @@ tile.botania:manaBeacon14.name=Balise instable rouge
 tile.botania:manaBeacon15.name=Balise instable noire
 tile.botania:manaVoid.name=Vide du mana
 tile.botania:manaDetector.name=Détecteur de mana
-tile.botania:enchanter.name=Enchanteur de mana
+tile.botania:enchanter.name=Enchanteur à mana
 tile.botania:turntable.name=Plaque tournante de distributeur
 tile.botania:tinyPlanetBlock.name=Minuscule planète
 tile.botania:alchemyCatalyst.name=Catalyseur alchimique
@@ -922,6 +922,7 @@ tile.botania:corporeaInterceptor.name=Intercepteur de Corporea
 tile.botania:corporeaCrystalCube.name=Cube de cristal Corporea
 tile.botania:incensePlate.name=Assiette d'encens
 tile.botania:hourglass.name=Sablier plannant
+tile.botania:ghostRail.name=Rail spectral 
 
 # FLOWER NAMES
 tile.botania:flower..name=Fleur Botania
@@ -963,7 +964,7 @@ tile.botania:flower.spectrolus.reference=Profiting off Hate
 # - FUNCTIONAL
 tile.botania:flower.bellethorn.name=Bellethorne
 tile.botania:flower.bellethorn.reference=world's end, girl's rondo
-tile.botania:flower.bellethornChibi.name=Bellethorne Petite
+tile.botania:flower.bellethornChibi.name=Petite Bellethorne 
 tile.botania:flower.bellethornChibi.reference=world's end, girl's rondo
 tile.botania:flower.dreadthorn.name=Dreadthorne
 tile.botania:flower.dreadthorn.reference=Plan C
@@ -2082,6 +2083,11 @@ botania.page.hourglass3=Note that the sand is added all at once, so the size of 
 botania.page.hourglass4=Right clicking the block with a &1Wand of the Forest&0 locks (and unlocks) it. When locked, sand can't be added or removed, just in case someone right clicks it on accident.<br>If a &4Mana Burst&0 collides with the block, it'll stop the flow of sand and pause the timer, colliding again continues it.
 botania.page.hourglass5=The sands of time
 
+# -- SPECTRAL RAIL  
+botania.entry.ghostRail=Spectral Rail  
+botania.page.ghostRail0=Using a &1Spectral Platform&0 as a &1Rail&0 component gives some interesting abilities to a &1Minecart&0 that passes through it: when launched off the rail, the cart will float for a bit, it'll also be able to pass through walls.<br>This effect stops if the cart lands on a rail or collides with any variant of &1Dreamwood&0.  
+botania.page.ghostRail1=Spirit Tracks, you could say  
+
 # - Fleur mystique INSTRUMENTS
 # -- MANA BLASTER
 botania.entry.manaBlaster=Mana Blaster
@@ -2774,7 +2780,7 @@ botania.page.blazeBlock0=Smashing a bunch of &1Blaze Rods&0 together makes a usa
 botania.page.blazeBlock1=0x1a4
 
 # -- THAUMCRAFT INTEGRATION
-botania.entry.tcIntegration=Thaumcraft Integration
+botania.entry.tcIntegration=Intégration de Thaumcraft
 botania.page.tcIntegration0=Often enough, the paths of &4Botany&0 and &4Thaumaturgy&0 cross together. Mixing some of the artifacts mentioned in this book as well as any from the school of &5Thaumcraft&0 can allow for combinations of these to form.
 botania.page.tcIntegration1=First and foremost, combining any of the &1Mana Metal&0 helms with a set of &1Goggles of Revealing&0 allows for a combination of both.<br>The protection and regenerability of the armor works alongside the Goggles' abilities, but the &4Vis&0 discount is lost. 
 botania.page.tcIntegration2=Helmets of Revealing (works with any Botania helm)
@@ -2785,5 +2791,5 @@ botania.page.tcIntegration6a=Perhaps insanity might not be the greatest tool in 
 botania.page.tcIntegration6b=The official frowny face
 
 # -- BUILDCRAFT INTEGRATION
-botania.entry.bcIntegration=Buildcraft Integration
+botania.entry.bcIntegration=Intégration de Buildcraft
 botania.page.bcIntegration0=Recent advances in piping technology have allowed &1Gates&0 to get a feel of the &4Mana&0 around them. A &1Gate&0 can now sense whether a &4Mana&0 container is empty, full or if it contains any mana.<br>&1Gates&0 can also use the &1Mana Detector&0 trigger to detect if a mana is passing by the pipe block. In addition, they can also sense when a &1Runic Altar&0 is ready to create runes.
