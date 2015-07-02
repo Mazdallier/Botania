@@ -117,13 +117,13 @@ botaniamisc.stopped=Stopped
 botaniamisc.lockedStopped=Locked, Stopped
 
 # NEI INTEGRATION
-botania.nei.brewery=Botanical Brewery
-botania.nei.elvenTrade=elfique Trade
+botania.nei.brewery=Distileur botanique
+botania.nei.elvenTrade=Commerce elfique
 botania.nei.floatingFlowers=Fleur flottante
-botania.nei.manaPool=Mana Infusion
-botania.nei.petalApothecary=Petal Apothecary
-botania.nei.runicAltar=Runic Altar
-botania.nei.pureDaisy=Pure Daisy
+botania.nei.manaPool=Infusion de mana
+botania.nei.petalApothecary=Apoticaire de pétale
+botania.nei.runicAltar=Autel runique
+botania.nei.pureDaisy=Pâquerette pure
 
 # BUILDCRAFT INTEGRATION
 botania.triggers.manaDetector=Mana Burst
