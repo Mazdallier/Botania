@@ -271,7 +271,7 @@ relics.enabled=Activer les reliques
 ringOfOdin.fireResist=Activer la résistance au feu de l'anneau d'Odin
 flower.forceCheck=Vérification de force de la fleur
 enderPickpocket.enabled=Activer le vol à la tire du néant
-Fleur de jour.obsidian=Therma-lis a besoin d'obsidienne
+thermalily.obsidian=Le therma-lis a besoin d'obsidienne
 passiveWither.time=Temps de décrépitude passive
 flowerParticles.frequency=Fréquence des particules de fleur
 lexicon.enable.rotatingItems=Les éléments tournent dans le lexique
@@ -297,7 +297,7 @@ worldgen.flower.quantity=Quantité de génération de fleurs
 worldgen.mushroom.quantity=Quantité de génération de champignons
 
 # VERSION CHECKING
-botania.versioning.flavour0=NANI SORE!? BOTANIA IS OUTDATED!?
+botania.versioning.flavour0=QUOI DONSQUE !? BOTANIA EST PERIME !?
 botania.versioning.flavour1=What do you mean Botania is outdated, you ignorant fool?
 botania.versioning.flavour2=It's not like Botania wants to be outdated, b-b-BAKA!
 botania.versioning.flavour3=Beam me up Scotty. We got a new Botania version.
@@ -357,9 +357,9 @@ botania.versioning.error=Woah! It seems like something went wrong while trying t
 botania.versioning.disabled=Sorry. This feature is currently disabled due to server host problems, it should be back soon.
 
 # BAUBLE TOOLTIPS
-botania.baubletype.amulet=Equippable dans l'emplacement &aAmulet&7
-botania.baubletype.ring=Equippable dans l'emplacement &aRing&7
-botania.baubletype.belt=Equippable dans l'emplacement &aBelt&7
+botania.baubletype.amulet=Equipable dans l'emplacement &aAmulet&7
+botania.baubletype.ring=Equipable dans l'emplacement &aRing&7
+botania.baubletype.belt=Equipable dans l'emplacement &aBelt&7
 botania.baubletooltip=Appuyez &b%key%&7 pour ouvrir le menu Baubles
 
 # RELIC POEMS
@@ -430,8 +430,8 @@ achievement.botania:lexiconUse.desc=Ouvrez un Lexica Botania et jetez un oeil à
 achievement.botania:EndoflammePickup=Arrivée de l'aube
 achievement.botania:daybloomPickup.desc=Faite une Fleur de jour dans l'apoticaire de pétale
 achievement.botania:manaPoolPickup=Vague vive
-achievement.botania:manaPoolPickup.desc=Améliorez un bassin de mana dilué à un normal
-achievement.botania:endoflamePickup=Meltdown
+achievement.botania:manaPoolPickup.desc=Améliorez un bassin de mana dilué en un normal
+achievement.botania:endoflamePickup=Fusion
 achievement.botania:endoflamePickup.desc=Faite une Endoflamme pour augmenter la production de mana
 achievement.botania:tinyPotatoPet=Just Be Friends
 achievement.botania:tinyPotatoPet.desc=Make a Tiny Potato and pet it
@@ -509,15 +509,15 @@ botania.challengelevel.hard=Difficile
 botania.challengelevel.lunatic=Lunatique
 
 # CHALLENGE TEXT
-botania.challenge.flowerFarm=Flower Farm
+botania.challenge.flowerFarm=Ferme à fleurs
 botania.challenge.flowerFarm.desc=Create an automated farm of all 16 colors of botania flowers. Bonus points if the flowers are sorted.
-botania.challenge.recordFarm=Record Farm
+botania.challenge.recordFarm=Record de ferme
 botania.challenge.recordFarm.desc=Create a system that produces records through the death of creepers at the hand of skeletons. Bonus points if it doesn't require a player's presence.
-botania.challenge.reedFarm=Sugar Cane Farm
+botania.challenge.reedFarm=Ferme à canna à sucre
 botania.challenge.reedFarm.desc=Create an automated sugar cane farm. Bonus points for not using pistons.
-botania.challenge.cobbleGen=Cobble Generator
+botania.challenge.cobbleGen=Générateur de pierre
 botania.challenge.cobbleGen.desc=Create an automated cobblestone generator and harvester. Bonus points if it also creates smooth stone without a furnace.
-botania.challenge.pureDaisy=Auto Pure Daisy
+botania.challenge.pureDaisy=Pâquerette pure auto
 botania.challenge.pureDaisy.desc=Completely automate the Pure Daisy. Bonus points if only one spreader is used and/or if the wood/stone input is also automated.
 botania.challenge.battery=Mana Battery
 botania.challenge.battery.desc=Create a Mana Battery, a system where mana enters one pool and comes out of another, with a good amount of pools as a buffer. Bonus points if the input or output can be changed.
@@ -1010,15 +1010,15 @@ tile.botania:flower.manastar.reference=Souhaitez sur une étoile
 
 # - GENERATING
 tile.botania:flower.daybloom.name=Fleur de jour
-tile.botania:flower.daybloom.reference=A Sting of light
+tile.botania:flower.daybloom.reference=Une Piqûre de lumière
 tile.botania:flower.endoflame.name=Endoflamme
-tile.botania:flower.endoflame.reference=Squirting Lag
+tile.botania:flower.endoflame.reference=Lenteur d'injection 
 tile.botania:flower.hydroangeas.name=Hydroangeas
 tile.botania:flower.hydroangeas.reference=Just friendly crustaceans
 tile.botania:flower.thermalily.name=Therma-lis
 tile.botania:flower.thermalily.reference=A Scarlet Rose indeed
-tile.botania:flower.nightshade.name=Nightshade
-tile.botania:flower.nightshade.reference=Ghastly signature
+tile.botania:flower.nightshade.name=Solanacée
+tile.botania:flower.nightshade.reference=Signature horrible
 tile.botania:flower.arcanerose.name=Rosa Arcana
 tile.botania:flower.arcanerose.reference=Ten blue orbs in the corner
 tile.botania:flower.munchdew.name=Munchdew
@@ -1911,10 +1911,10 @@ botania.page.daybloom4=&oHow many of you people out there been hurt in some kind
 botania.page.daybloom5=&oHow could it be that what you need the most can leave you feeling just like a ghost? You never want to feel so sad and lost again. One day you could be looking through an old book in rainy weather. You see a picture of her smiling at you when you were still together. You could be walking down the street and who should you chance to meet. But that same old smile that you've been thinking of all day...
 
 # -- NIGHTSHADE
-botania.entry.nightshade=Nightshade
-botania.page.nightshade0=The &1Nightshade&0 is the dark counterpart of the &1Fleur de jour&0, as it generates &4Mana&0 passively in any situation the &1Fleur de jour&0 can not, as long as it's nighttime<br>Similarly to their shining counterpart, they suffer diminishing returns from having any adjacent.
-botania.page.nightshade0a=The &1Nightshade&0 is the dark counterpart of the &1Fleur de jour&0, as it generates &4Mana&0 passively in any situation the &1Fleur de jour&0 can not, as long as it's nighttime. Alike its shining counterpart, they suffer diminishing returns from having any adjacent and are not very resistant, and some time they'll wither and die off.
-botania.page.nightshade1=&oThe shadow of the day&r.
+botania.entry.nightshade=Solonacée
+botania.page.nightshade0=La &1Solanacée&0 est l'alter-ego sombre de la &1Fleur de jour&0, comme elle génère du &4Mana&0 passivement dans toute les situation où la &1Fleur de jour&0 ne peut pas, aussi longtemps qu'il fait nuit<br>Similarly to their shining counterpart, they suffer diminishing returns from having any adjacent.
+botania.page.nightshade0a=La &1Solanacée&0 est l'alter-ego sombre de la &1Fleur de jour&0, comme elle génère du &4Mana&0 passivement dans toute les situation où la &1Fleur de jour&0 ne peut pas, aussi longtemps qu'il fait nuit. Alike its shining counterpart, they suffer diminishing returns from having any adjacent and are not very resistant, and some time they'll wither and die off.
+botania.page.nightshade1=&oL'ombre du jour&r.
 
 # -- ENDOFLAME
 botania.entry.endoflame=Endoflamme
